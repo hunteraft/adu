@@ -1,9 +1,9 @@
 {
-	"ip":"donator3.falixnodes.net",
-	"port": 25710,
+	"ip":"duyh4399.aternos.me",
+	"port": 26304,
 	"name": "afkbot1",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"register-cmd":"/register 12345",
 	"login-cmd":"/login (type_ur_pass_here)"
 }
